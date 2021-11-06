@@ -36,9 +36,13 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
 
 </br>
 
+ ![Snake animation](https://github.com/elielsondev/elielsondev/blob/output/github-contribution-grid-snake.svg)
+
+</br>
+
 <H3><u>Estudos de programação e formação<u></H3>
 
-<br>
+</br>
 
 <p>Conclui os módulos de fundamentos e Front-end do curso, onde tive a oportunidade de aprender as seguintes ferramentas/metodologias:</p>
 
@@ -53,7 +57,7 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
   <li>Metodologias ágeis</li>
 </ul>
 
-<br>
+</br>
   
 <p>Já no módulo que se aproxima que é o de Back-end, irei aprender:</p>
 
@@ -77,7 +81,7 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
   <li>Estrutura de Dados</li>
 </ul>
 
-  <br>
+  </br>
   
 <div>
 
