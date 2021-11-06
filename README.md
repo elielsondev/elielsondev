@@ -10,9 +10,9 @@
   <img align="center" alt="Elielson-Brazil" src="https://img.icons8.com/color/50/000000/brazil-circular.png"><p>📍 Eu sou Brasileiro, Pernambucano com muito orgulho, moro na cidade de Goiana </p>
   
   <img align="center"  hspace="5px" alt="Elielson-Portugal" src="https://img.icons8.com/color/48/000000/portugal-circular.png">
-  <p>📍 Atualmente estou buscando emprego em Portugal, pois planejo morar lá. </p>
+  <p>📍 Atualmente estou buscando emprego em Portugal, pois planejo morar lá e trabalhar com o que mais amo. </p>
  </div>
- 
+
 <!--
 !!!
 Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!! 
@@ -33,10 +33,6 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
   <img align="center" alt="Elielson-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="Elielson-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div>
-
-</br>
-
- ![Snake animation](https://github.com/elielsondev/elielsondev/blob/output/github-contribution-grid-snake.svg)
 
 </br>
 
