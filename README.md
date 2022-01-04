@@ -1,26 +1,9 @@
 # Olá, Eu sou Elielson, mas pode me chamar de Leo!
 
-![image](https://ml3cn65q37pc.i.optimole.com/04YMEC0-Ts_hXbvy/w:800/h:600/q:70/https://contabilidade.zconti.com.br/wp-content/uploads/2018/07/3-dicas-para-abrir-empresa-de-engenharia.gif)
+<div align="middle">
+  <img width=500 src="https://ml3cn65q37pc.i.optimole.com/04YMEC0-Ts_hXbvy/w:800/h:600/q:70/https://contabilidade.zconti.com.br/wp-content/uploads/2018/07/3-dicas-para-abrir-empresa-de-engenharia.gif" alt="Programador no computador" >
+</div>
 
- ### Quem sou eu?
-
-👨‍💻 Sou estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/), e atualmente estou concluindo o módulo de Front-End para dar inicio a Back-End.
- </br>
- <div style="display: inline_block">
-  <img align="center" alt="Elielson-Brazil" src="https://img.icons8.com/color/50/000000/brazil-circular.png"><p>📍 Eu sou Brasileiro, Pernambucano com muito orgulho, moro na cidade de Goiana </p>
-  
-  <img align="center"  hspace="5px" alt="Elielson-Portugal" src="https://img.icons8.com/color/48/000000/portugal-circular.png">
-  <p>📍 Atualmente estou buscando emprego em Portugal, pois planejo morar lá e trabalhar com o que mais amo. </p>
- </div>
-
-<!--
-!!!
-Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!! 
- - Experiências anteriores:
- - Meus interesses pessoais:
-!!!
--->
- 
 ## 🖥️ Tecnologias:
 <div style="display: inline_block"><br>
   <img align="center" alt="Elielson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -34,19 +17,39 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
   <img align="center" alt="Elielson-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div>
 
+ ### Quem sou eu?
+
+👨‍💻 Sou estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/), já conclui os módulos de Fundamentos e Front-ens e atualmente estou estudando Back-End.
+ </br>
+ <div style="display: inline_block">
+  <img align="center" alt="Elielson-Brazil" src="https://img.icons8.com/color/50/000000/brazil-circular.png"><p>📍 Eu sou Brasileiro, Pernambucano com muito orgulho, moro na cidade de Goiana </p>
+  
+  <img align="center"  hspace="5px" alt="Elielson-Portugal" src="https://img.icons8.com/color/48/000000/portugal-circular.png">
+  <p>📍 Atualmente estou buscando emprego em Portugal, e morar lá respectivamente. </p>
+ </div>
+
+<!--
+!!!
+Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!! 
+ - Experiências anteriores:
+ - Meus interesses pessoais:
+!!!
+-->
+
 </br>
 
 <H3><u>Estudos de programação e formação<u></H3>
 
 </br>
 
-<p>Conclui os módulos de fundamentos e Front-end do curso, onde tive a oportunidade de aprender as seguintes ferramentas/metodologias:</p>
+<p>Ao concluir os módulos de Fundamentos e Front-end do curso, tive a oportunidade de aprender as seguintes tecnologias e metodologias:</p>
 
 <ul>
-  <li>Git e Github</li>
-  <li>HTML5</li>
-  <li>CSS - Puro e utilização de FrameWorks</li>
-  <li>JavaScript</li>
+  <li>Unix e Bash</li>
+  <li>Git, Github e Internet</li>
+  <li>HTML5 e CSS - Puro e também utilização de FrameWorks</li>
+  <li>Lógica de programação</li>
+  <li>JavaScript e EcmaScript6</li>
   <li>Testes - Jest e RTL</li>
   <li>Integração com API</li>
   <li>React JS - Redux, Context API e React Hooks</li>
