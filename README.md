@@ -1,4 +1,4 @@
-# Olá, Eu sou Elielson, mas pode me chamar de Leo, sou profissional em Desenvolvimento de SoftWare. <br/><br/> Hi, I'm Elielson, but please call me Leo, I'm a professional in Software Development.
+# Olá, Eu sou Elielson, mas pode me chamar de Leo ou Eli, sou profissional em Desenvolvimento de SoftWare. <br/><br/> Hi, I'm Elielson, but please call me Leo or Eli, I'm a professional in Software Development.
 <div align="middle">
   <img width=500 src="https://ml3cn65q37pc.i.optimole.com/04YMEC0-Ts_hXbvy/w:800/h:600/q:70/https://contabilidade.zconti.com.br/wp-content/uploads/2018/07/3-dicas-para-abrir-empresa-de-engenharia.gif" alt="Programador no computador" >
 </div>
@@ -24,7 +24,7 @@
 
  ### Quem sou eu?
 
-👨‍💻 Sou estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/), onde conclui os módulos de Fundamentos e Front-end, atualmente estou estudando Back-End;
+👨‍💻 Sou estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/).
 
 👨‍💻 Estudante de Inglês pela [Gavin's Elite Squad](https://www.gavinselitesquad.com/settings/account);
 
@@ -35,7 +35,7 @@
 !!!
 Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!! 
  - Experiências anteriores:
-   - No meu último emprego como Operador de Produção numa indústria automotiva, atuava na área de inspeção dos componentes e ajustes nos sistemas responsáveis pelo andamento do processo produtivo, essa experiência me ajudou a enxergar que essa transição de carreira para Desenvolvimento de Software era possível, tendo em visto que sempre fui apaixonado por tecnologia e sempre tive a curiosidade de como era feito todo o desenvolvimento de software independente do dispositivo.
+   - No meu último emprego como Operador de Produção numa indústria automotiva, atuava na área de inspeção dos componentes e ajustes nos sistemas responsáveis pelo bom andamento do processo produtivo, essa experiência me ajudou a enxergar que uma transição de carreira para Desenvolvimento de Software era possível, e foi através da Trybe que "entrei de cabeça",e tendo em vista que sempre fui apaixonado por tecnologia e sempre tive a curiosidade de como era feito todo o desenvolvimento de software independente do dispositivo.
 
  - Meus interesses pessoais:
    - Como estou em transição de carreira, o meu 'sonho' tanto pessoal como profissional é o de poder entrar no mercado de trabalho na área de desenvolvimento web e se tornar realidade na minha vida, consequentemente poder trocar conhecimentos com os colegas de trabalho, poder crescer profissionalmente e dar uma qualidade de vida melhor para minha família.
@@ -48,22 +48,34 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
 </br>
 <p>Nos módulos de Fundamentos e Front-end, aprendi na prática as seguintes tecnologias e metodologias:</p>
 
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/38013921" width="200" height="150"/>
+
+  ### Fundamentos
 <ul>
   <li>Unix e Bash</li>
   <li>Git, Github e Internet</li>
   <li>HTML5 e CSS - Puro e também utilização de FrameWorks</li>
   <li>Lógica de programação</li>
   <li>JavaScript e EcmaScript6</li>
-  <li>Testes Unitários - Jest e RTL</li>
+  <li>Testes Unitários - Jest</li>
   <li>Integração com API</li>
-  <li>React JS - Redux, Context API e React Hooks</li>
-  <li>Metodologias ágeis</li>
 </ul>
+  
+  ### Front-End
+  <ul>
+    <li>Testes Unitários - Jest e RTL</li>
+    <li>React JS</li>
+    <li>Redux</li>
+    <li>Context API</li>
+    <li>React Hooks</li>
+    <li>Metodologias ágeis</li>
+  </ul>
 
 </br>
   
 <p>Já no módulo que se aproxima que é o de Back-end, irei aprender:</p>
 
+### Back-End
 <ul>
   <li>My SQL</li>
   <li>MongoDB</li>
@@ -73,8 +85,9 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
   <li>Sockets</li>
 </ul>
   
-<p>O último módulo Ciência de Dados, será ensinado:</p>
+<p>O último módulo Ciência da Computação, será ensinado:</p>
 
+### Ciência de Computação
 <ul>
   <li>Python</li>
   <li>Programação orientada a objetos</li>
@@ -100,10 +113,10 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-  <p>Esse é o meu resumo de utilização do Github:</p>
-
+<p>Esse é o meu resumo de utilização do Github:</p>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elielsondev&show_icons=true&theme=gotham)
 
 <p>Algumas linguagens e ferramentas que eu utilizo:</p>
-
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elielsondev)](https://github.com/elielsondev/github-readme-stats)
