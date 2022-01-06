@@ -1,4 +1,4 @@
-# Olá, Eu sou Elielson, mas pode me chamar de Leo! / Hello, I'm Elielson, but please call me Leo.
+# Olá, Eu sou Elielson, mas pode me chamar de Leo, sou profissional em Desenvolvimento de SoftWare. <br/><br/> Hi, I'm Elielson, but please call me Leo, I'm a professional in Software Development.
 <div align="middle">
   <img width=500 src="https://ml3cn65q37pc.i.optimole.com/04YMEC0-Ts_hXbvy/w:800/h:600/q:70/https://contabilidade.zconti.com.br/wp-content/uploads/2018/07/3-dicas-para-abrir-empresa-de-engenharia.gif" alt="Programador no computador" >
 </div>
@@ -24,14 +24,12 @@
 
  ### Quem sou eu?
 
-👨‍💻 Sou estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/), onde conclui os módulos de Fundamentos e Front-end, atualmente estou estudando Back-End.
- </br>
- <div style="display: inline_block">
-  <img align="center" alt="Elielson-Brazil" src="https://img.icons8.com/color/50/000000/brazil-circular.png"><p>📍 Eu sou Brasileiro, Pernambucano com muito orgulho, moro na cidade de Goiana </p>
-  
-  <img align="center"  hspace="5px" alt="Elielson-Portugal" src="https://img.icons8.com/color/48/000000/portugal-circular.png">
-  <p>📍 Atualmente estou buscando emprego em Portugal, e morar lá respectivamente. </p>
- </div>
+👨‍💻 Sou estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/), onde conclui os módulos de Fundamentos e Front-end, atualmente estou estudando Back-End;
+
+👨‍💻 Estudante de Inglês pela [Gavin's Elite Squad](https://www.gavinselitesquad.com/settings/account);
+
+👨‍💻 Formado em Gestão de Produção Industrial - GPI, pelo [CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER](https://www.uninter.com/)
+
 
 <!--
 !!!
@@ -46,7 +44,7 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
 
 </br>
 
-<H3><u>Estudos de programação e formação<u></H3>
+<H3><u>Aprendizagem na programação:<u></H3>
 </br>
 <p>Nos módulos de Fundamentos e Front-end, aprendi na prática as seguintes tecnologias e metodologias:</p>
 
