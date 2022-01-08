@@ -29,11 +29,11 @@
    <strong><i>"Não sabemos de tudo, porém podemos aprender um pouco todos os dias, e quando compartilhamos o nosso conhecimento, este mesmo conhecimento volta para nós de maneira mais sólida e concisa."</strong></i> 
    <i>Autor: Elielson do Nascimento Ramos</i>
 
-👨‍💻 Estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/) Conclusão Julho/2022
+👨‍💻 Estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/) <br/> Conclusão Julho/2022
 
-👨‍💻 Estudante de Inglês pela [Gavin's Elite Squad](https://www.gavinselitesquad.com/settings/account) Conclusão Setembro/2022
+👨‍💻 Estudante de Inglês pela [Gavin's Elite Squad](https://www.gavinselitesquad.com/settings/account) <br/> Conclusão Setembro/2022
 
-👨‍💻 Formado em Gestão de Produção Industrial - GPI, pelo [CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER](https://www.uninter.com/) Conclusão Dezembro/2021
+👨‍💻 Formado em Gestão de Produção Industrial - GPI, pelo [CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER](https://www.uninter.com/) <br/> Conclusão Dezembro/2021
 
 
 <!--
