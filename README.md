@@ -23,7 +23,11 @@
 </div>
 
  ### Quem sou eu?
-   Sou carismático e gosto de fazer amizades, acredito que uma boa conversa é aquela que gera aprendizados pra vida, tenho como filosofia de vida de que: "Não sabemos de tudo, porém podemos aprender um pouco todos os dias, e quando compartilhamos o nosso conhecimento, este mesmo conhecimento volta para nós de maneira mais sólida e concisa."
+   Sou carismático, gosto de fazer amizades e apaixonado por tecnologia.
+   
+   Tenho uma frase como filosofia de vida: <br/>
+   <strong><i>"Não sabemos de tudo, porém podemos aprender um pouco todos os dias, e quando compartilhamos o nosso conhecimento, este mesmo conhecimento volta para nós de maneira mais sólida e concisa."</strong></i> 
+   <i>Autor: Elielson do Nascimento Ramos</i>
 
 👨‍💻 Sou estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/).
 
