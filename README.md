@@ -108,7 +108,7 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
 
  ## 👍 Siga-me:
 
-  Gosto muito de conversar e trocar experiências, caso queira falar comigo pode me contatar pelo meu Linkedin ou por e-mail nos botões abaixo:
+  Caso queira falar comigo, favor me contatar pelo meu Linkedin ou por e-mail nos botões abaixo:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/elielson-nascimento-1a98b31b4/">
