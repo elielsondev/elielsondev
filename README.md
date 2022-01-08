@@ -78,7 +78,7 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
 
 </br>
   
-<p>Já no módulo que se aproxima que é o de Back-end, irei aprender:</p>
+<p>Já no módulo de Back-end, estou aprendendo e praticando:</p>
 
 ### Back-End
 <ul>
@@ -90,7 +90,7 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
   <li>Sockets</li>
 </ul>
   
-<p>O último módulo Ciência da Computação, será ensinado:</p>
+<p>O próximo e último módulo de Ciência da Computação, será ensinado:</p>
 
 ### Ciência de Computação
 <ul>
