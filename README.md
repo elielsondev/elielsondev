@@ -35,7 +35,6 @@
 
 👨‍💻 <strong><i>Formado em Gestão de Produção Industrial - GPI, pelo [CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER](https://www.uninter.com/)</i></strong><br/> Conclusão Dezembro/2021
 
-
 <!--
 !!!
 Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!! 
