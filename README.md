@@ -1,7 +1,10 @@
 # Olá, Eu sou Elielson, mas pode me chamar de Leo ou Eli, sou profissional em Desenvolvimento de SoftWare. <br/><br/> Hi, I'm Elielson, but please call me Leo or Eli, I'm a professional in Software Development.
+
 <div align="middle">
   <img width=500 src="https://ml3cn65q37pc.i.optimole.com/04YMEC0-Ts_hXbvy/w:800/h:600/q:70/https://contabilidade.zconti.com.br/wp-content/uploads/2018/07/3-dicas-para-abrir-empresa-de-engenharia.gif" alt="Programador no computador" >
 </div>
+
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="elielson-nascimento-1a98b31b4" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/elielson-nascimento-1a98b31b4?trk=profile-badge">Elielson Nascimento</a></div>          
 
 ## 🖥️ Tecnologias:
 <div style="display: inline_block"><br>
