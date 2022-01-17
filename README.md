@@ -57,13 +57,13 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
 
   ### Fundamentos
 <ul>
-  <li>Unix e Bash</li>
-  <li>Git, Github e Internet</li>
-  <li>HTML5 e CSS - Puro e também utilização de FrameWorks</li>
-  <li>Lógica de programação</li>
-  <li>JavaScript e EcmaScript6</li>
-  <li>Testes Unitários - Jest</li>
-  <li>Integração com API</li>
+  <li>Unix e Bash</li> ✅
+  <li>Git, Github e Internet</li> ✅
+  <li>HTML5 e CSS - Puro e também utilização de FrameWorks</li> ✅
+  <li>Lógica de programação</li> ✅
+  <li>JavaScript e EcmaScript6</li> ✅
+  <li>Testes Unitários - Jest</li> ✅
+  <li>Integração com API</li> ✅
 </ul>
   
   ### Front-End
@@ -82,6 +82,7 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
 
 ### Back-End
 <ul>
+  <li>Docker</li>
   <li>My SQL</li>
   <li>MongoDB</li>
   <li>Node</li>
