@@ -68,12 +68,12 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
   
   ### Front-End
   <ul>
-    <li>Testes Unitários - Jest e RTL</li>
-    <li>React JS</li>
-    <li>Redux</li>
-    <li>Context API</li>
-    <li>React Hooks</li>
-    <li>Metodologias ágeis</li>
+    <li>Testes Unitários - Jest e RTL✅</li>
+    <li>React JS✅</li>
+    <li>Redux✅</li>
+    <li>Context API✅</li>
+    <li>React Hooks✅</li>
+    <li>Metodologias ágeis✅</li>
   </ul>
 
 </br>
@@ -82,7 +82,7 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
 
 ### Back-End
 <ul>
-  <li>Docker</li>
+  <li>Docker✅</li>
   <li>My SQL</li>
   <li>MongoDB</li>
   <li>Node</li>
