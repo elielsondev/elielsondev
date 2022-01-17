@@ -111,7 +111,7 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
   Caso queira falar comigo, favor me contatar pelo meu Linkedin ou por e-mail nos botões abaixo:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/elielson-nascimento-1a98b31b4/">
+  <a href="https://www.linkedin.com/in/elielsondev/">
     <img href="https://www.linkedin.com/in/elielson-nascimento-1a98b31b4/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:nascimento.elielson@gmail.com?subject=Olá!">
