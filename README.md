@@ -25,6 +25,7 @@
 
  ### Quem sou eu?
    Sou carismático, gosto de fazer amizades e apaixonado por tecnologia.
+   A comunicação pra mim é fundamental, é através dela que adquirimos e passamos conhecimento.
    
    Tenho uma frase como filosofia de vida: <br/>
    <strong><i>"Não sabemos de tudo, porém podemos aprender um pouco todos os dias, e quando compartilhamos o nosso conhecimento, este mesmo conhecimento volta para nós de maneira mais sólida e concisa."</strong></i> 
