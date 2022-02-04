@@ -54,9 +54,8 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
 </br>
 <p>Nos módulos de Fundamentos e Front-end, aprendi na prática as seguintes tecnologias e metodologias:</p>
 
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/38013921" width="200" height="150"/>
-
   ### Fundamentos
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/38013921" width="200" height="150"/>
 <ul>
   <li>Unix e Bash✅</li>
   <li>Git, Github e Internet✅</li>
@@ -67,9 +66,8 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
   <li>Integração com API✅</li>
 </ul>
   
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/45894556" width="200" height="150"/>
-  
   ### Front-End
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/45894556" width="200" height="150"/>
   <ul>
     <li>Testes Unitários - Jest e RTL✅</li>
     <li>React JS✅</li>
