@@ -67,6 +67,8 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
   <li>Integração com API✅</li>
 </ul>
   
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/45894556" width="200" height="150"/>
+  
   ### Front-End
   <ul>
     <li>Testes Unitários - Jest e RTL✅</li>
