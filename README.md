@@ -22,6 +22,11 @@
   <img align="center" alt="Elielson-Unix" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" />
   <img align="center" alt="Elielson-Bash" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
+<div>
+  <img align="center" alt="Elielson-Docker" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img align="center" alt="Elielson-MySQL" width="48" src="" />
+  <img align="center" alt="" width="48" src="" />
+</div>
 
  ### Quem sou eu?
    Sou carismático, gosto de fazer amizades e apaixonado por tecnologia.
