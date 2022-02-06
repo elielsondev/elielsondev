@@ -84,7 +84,7 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
 ### Back-End
 <ul>
   <li>Docker✅</li>
-  <li>My SQL</li>
+  <li>My SQL✅</li>
   <li>MongoDB</li>
   <li>Node</li>
   <li>API RESTful</li>
