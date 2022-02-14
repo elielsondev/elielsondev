@@ -39,7 +39,7 @@
 </div>
 
  ### Quem sou eu?
-   Sou carismático, gosto de fazer amizades e apaixonado por tecnologia.
+   Carismático, gosto de fazer novas amizades e apaixonado por tecnologia.
    A comunicação pra mim é fundamental, pois é através dela que adquirimos ou passamos conhecimento.
    
    Tenho uma frase como filosofia de vida: <br/>
