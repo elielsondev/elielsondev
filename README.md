@@ -101,7 +101,7 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
   <li>Docker✅</li>
   <li>My SQL✅</li>
   <li>MongoDB</li>
-  <li>Node</li>
+  <li>Node.js</li>
   <li>API RESTful</li>
   <li>Arquitetura: SOLID e ORM</li>
   <li>Sockets</li>
