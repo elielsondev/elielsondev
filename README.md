@@ -50,7 +50,7 @@
 
 👨‍💻 <strong><i>Estudante de Inglês pela [Gavin's Elite Squad](https://www.gavinselitesquad.com/settings/account)</i></strong><br/> Conclusão Setembro/2022
 
-👨‍💻 <strong><i>Formado em Gestão de Produção Industrial - GPI, pelo [CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER](https://www.uninter.com/)</i></strong><br/> Conclusão Dezembro/2021
+👨‍💻 <strong><i>Formado em Gestão de Produção Industrial - GPI, pelo [CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER](https://www.uninter.com/)</i></strong><br/> Conclusão Junho/2022
 
 <!--
 !!!
@@ -93,7 +93,7 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
   </ul>
 
 </br>
-  
+<!-- 
 <p>Já no módulo de Back-end, estou aprendendo e praticando:</p>
 
 ### Back-End
@@ -118,9 +118,8 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
   <li>Algoritmos</li>
   <li>Estrutura de Dados</li>
 </ul>
-
+-->
   </br>
-  
 <div>
 
  ## 👍 Siga-me:
