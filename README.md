@@ -93,20 +93,20 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
   </ul>
 
 </br>
-<!-- 
+ 
 <p>Já no módulo de Back-end, estou aprendendo e praticando:</p>
 
 ### Back-End
 <ul>
   <li>Docker✅</li>
   <li>My SQL✅</li>
-  <li>MongoDB</li>
-  <li>Node.js</li>
-  <li>API RESTful</li>
-  <li>Arquitetura: SOLID e ORM</li>
+  <li>Node.js✅</li>
+  <li>API RESTful✅</li>
+  <li>Arquitetura: SOLID e ORM✅</li>
   <li>Sockets</li>
+  <li>MongoDB</li>
 </ul>
-  
+<!--
 <p>O próximo e último módulo de Ciência da Computação, será ensinado:</p>
 
 ### Ciência de Computação
