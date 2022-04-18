@@ -1,4 +1,4 @@
-# Olá, Eu sou Elielson, mas pode me chamar de Leo ou Eli, sou profissional em Desenvolvimento de Software.
+# 📶 Olá, Sou Elielson, profissional em Desenvolvimento de Software.
 
 <div align="middle">
   <img width=500 src="https://ml3cn65q37pc.i.optimole.com/04YMEC0-Ts_hXbvy/w:800/h:600/q:70/https://contabilidade.zconti.com.br/wp-content/uploads/2018/07/3-dicas-para-abrir-empresa-de-engenharia.gif" alt="Programador no computador" >
