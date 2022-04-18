@@ -9,41 +9,50 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Elielson-vscode" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
   <img align="center" alt="Elielson-Linux" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="Elielson-Bash" width="65 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  <img align="center" alt="Elielson-Git" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-  <img align="center" alt="Elielson-GitHub" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-  <img align="center" alt="Elielson-HTML5" width="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" alt="Elielson-CSS3" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img align="center" alt="Elielson-JS" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Elielson-npm" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-  <img align="center" alt="Elielson-Bootstrap" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Elielson-Jest" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img align="center" alt="Elielson-React" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="Elielson-Redux" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img align="center" alt="Elielson-RTL" width="70" src="https://testing-library.com/img/octopus-128x128.png" />
+  <img align="center" alt="Elielson-Bash" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img align="center" alt="Elielson-Git" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  <img align="center" alt="Elielson-GitHub" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  <img align="center" alt="Elielson-HTML5" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img align="center" alt="Elielson-CSS3" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img align="center" alt="Elielson-JS" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Elielson-npm" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  <img align="center" alt="Elielson-Bootstrap" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Elielson-Jest" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img align="center" alt="Elielson-React" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align="center" alt="Elielson-Redux" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="center" alt="Elielson-RTL" width="67" src="https://testing-library.com/img/octopus-128x128.png" />
 </div>
 
   <!-- https://devicon.dev/ -->
 
 <div>
-  <img align="center" alt="Elielson-Docker" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" alt="Elielson-MySQL" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Elielson-Node.js" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Elielson-Sequelize" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-  <img align="center" alt="Elielson-TypeScript" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
-  <img align="center" alt="Elielson-Mongodb" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> </div>
+  <img align="center" alt="Elielson-Docker" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img align="center" alt="Elielson-MySQL" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Elielson-Node.js" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Elielson-Sequelize" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+  <img align="center" alt="Elielson-TypeScript" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
+  <img align="center" alt="Elielson-Mongodb" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> </div>
 
- ### Quem sou eu?
-   Carismático, gosto de fazer novas amizades e apaixonado por tecnologia.
-   A comunicação pra mim é fundamental, pois é através dela que adquirimos ou passamos conhecimento.
+ ## 👦 Quem sou eu?
+   Conhecido como Eli / Leo, sempre fui apaixonado por tecnólogia, desde pequeno gostava de desmontar
+   meus brinquedos para entender todo seu funcionamento e como tudo era feito, e mesmo com o passar dos
+   anos esse encanto só aumetou.
    
-   Tenho uma frase como filosofia de vida: <br/>
-   <strong><i>"Não sabemos de tudo, porém podemos aprender um pouco todos os dias, e quando compartilhamos o nosso conhecimento, este mesmo conhecimento volta para nós de maneira mais sólida e concisa."</strong></i> 
-   <i>Autor: Elielson do Nascimento Ramos</i>
-
+   Na adolescência trabalhei muito com impressão e formatação de computadores.
+   
+   Durante algum tempo trabalhei como operador de produção em algumas empresas, mais nunca perdi o meu 
+   objetivo de entrar na área de programação, mais não sabia como faria.
+   
+   Depois de muito buscar conheci a trybe, não pensei duas vezes para entrar no curso de Desenvolvimento Web - FullStack,
+   combinei com minha esposa e pedi demissão do trabalho para me dedicar e focar 100% no curso.
+   
+   Hoje estou aqui, pronto para ingressar na área que tanto sonhei entrar.
+   'O meu primeiro passo foi dado, não recuarei jamais.'
+   
+## 💡 Formação:
 👨‍💻 <strong><i>Estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/)</i></strong><br/> Conclusão Julho/2022
 
-👨‍💻 <strong><i>Estudante de Inglês pela [Gavin's Elite Squad](https://www.gavinselitesquad.com/settings/account)</i></strong><br/> Conclusão Setembro/2022
+👨‍💻 <strong><i>Inspetor de Qualidade na ITB - Pelo Pronatec</i></strong><br/> Conclusão Outubro/2017
 
 👨‍💻 <strong><i>Formado em Gestão de Produção Industrial - GPI, pelo [CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER](https://www.uninter.com/)</i></strong><br/> Conclusão Junho/2022
 
@@ -60,12 +69,11 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
 
 </br>
 
-<H3><u>Aprendizagem na programação:<u></H3>
-</br>
+## 💻 Aprendizagem na programação:
 <p>Nos módulos de Fundamentos e Front-end, aprendi na prática as seguintes tecnologias e metodologias:</p>
 
-  ### Fundamentos
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/38013921" width="200" height="150"/>
+## 📂 Fundamentos
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/38013921" width="200" height="150"/>
 <ul>
   <li>Unix e Bash✅</li>
   <li>Git, Github e Internet✅</li>
@@ -76,22 +84,22 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
   <li>Integração com API✅</li>
 </ul>
   
-  ### Front-End
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/45894556" width="200" height="150"/>
-  <ul>
-    <li>Testes Unitários - Jest e RTL✅</li>
-    <li>React JS✅</li>
-    <li>Redux✅</li>
-    <li>Context API✅</li>
-    <li>React Hooks✅</li>
-    <li>Metodologias ágeis✅</li>
-  </ul>
+## 📂 Front-End
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/45894556" width="200" height="150"/>
+<ul>
+  <li>Testes Unitários - Jest e RTL✅</li>
+  <li>React JS✅</li>
+  <li>Redux✅</li>
+  <li>Context API✅</li>
+  <li>React Hooks✅</li>
+  <li>Metodologias ágeis✅</li>
+</ul>
 
 </br>
  
-<p>Já no módulo de Back-end, estou aprendendo e praticando:</p>
+<p>Estou quase concluindo o módulo de Back-end, estou aprendendo e praticando muito:</p>
 
-### Back-End
+## 📂 Back-End
 <ul>
   <li>Docker✅</li>
   <li>My SQL✅</li>
@@ -104,7 +112,7 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
 <!--
 <p>O próximo e último módulo de Ciência da Computação, será ensinado:</p>
 
-### Ciência de Computação
+## 📂 Ciência de Computação
 <ul>
   <li>Python</li>
   <li>Programação orientada a objetos</li>
@@ -117,7 +125,7 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
   </br>
 <div>
 
- ## 👍 Siga-me:
+## 👍 Siga-me:
 
   Caso queira falar comigo, favor me contatar pelo meu Linkedin ou por e-mail nos botões abaixo:
 
