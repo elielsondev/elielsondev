@@ -133,6 +133,11 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
   <a href="https://www.linkedin.com/in/elielsondev/">
     <img href="https://www.linkedin.com/in/elielson-nascimento-1a98b31b4/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  
+  <a href="https://elielsondev.github.io/my-portfolio">
+    <img width=130 src="http://www.ufpb.br/inova/contents/imagens/portfolio.png/@@images/6c37eac1-000e-4c8e-a52d-0c329253d4e5.png" />
+  </a>
+  
   <a href="mailto:nascimento.elielson@gmail.com?subject=Olá!">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
