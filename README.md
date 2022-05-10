@@ -135,7 +135,7 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
   </a>
   
   <a href="https://elielsondev.github.io/my-portfolio">
-    <img width=130 src="http://www.ufpb.br/inova/contents/imagens/portfolio.png/@@images/6c37eac1-000e-4c8e-a52d-0c329253d4e5.png" />
+    <img width=130 src="https://www.pngkey.com/png/detail/111-1112821_welcome-to-al-hadeed-tech-logo-for-portfolio.png" />
   </a>
   
   <a href="mailto:nascimento.elielson@gmail.com?subject=Olá!">
