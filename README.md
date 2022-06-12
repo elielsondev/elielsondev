@@ -33,13 +33,15 @@
    meus brinquedos para entender todo seu funcionamento e como tudo era feito, e mesmo com o passar dos
    anos esse encanto só aumetou.
    
-   Na adolescência trabalhei muito com impressão e formatação de computadores.
+   Na adolescência trabalhei muito com impressão, formatação de computadores e ainda possuia um blog, que mesmo sem possuir 
+   conhecimento em linguagens de programação eu implantava os templates no blog e fazia melhorias no código de maneira intuitiva.
    
    Durante algum tempo trabalhei como operador de produção em algumas empresas, mais nunca perdi o meu 
    objetivo de entrar na área de programação, mais não sabia como faria.
    
-   Depois de muito buscar conheci a trybe, não pensei duas vezes para entrar no curso de Desenvolvimento Web - FullStack,
-   combinei com minha esposa e pedi demissão do trabalho para me dedicar e focar 100% no curso.
+   Depois de muito buscar aprender efetivamente, conheci a trybe, não pensei duas vezes para entrar no curso de 
+   Desenvolvimento Web - FullStack, fiz um alinhamento com minha esposa e pedi demissão do trabalho para me dedicar e focar 100% 
+   no curso.
    
    Hoje estou aqui, pronto para ingressar na área que tanto sonhei entrar.
    'O meu primeiro passo foi dado, não recuarei jamais.'
