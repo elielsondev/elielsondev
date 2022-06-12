@@ -7,9 +7,6 @@
 ## 🖥️ Tecnologias:
   <!-- https://devicon.dev/ -->
 <div style="display: inline_block"><br>
-  <img align="center" alt="Elielson-vscode" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-  <img align="center" alt="Elielson-Linux" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="Elielson-Bash" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align="center" alt="Elielson-Git" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <img align="center" alt="Elielson-GitHub" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   <img align="center" alt="Elielson-HTML5" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
@@ -29,9 +26,7 @@
   <img align="center" alt="Elielson-Docker" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Elielson-MySQL" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Elielson-Node.js" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Elielson-Sequelize" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-  <img align="center" alt="Elielson-TypeScript" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
-  <img align="center" alt="Elielson-Mongodb" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> </div>
+</div>
 
  ## 👦 Quem sou eu?
    Conhecido como Eli / Leo, sempre fui apaixonado por tecnólogia, desde pequeno gostava de desmontar
