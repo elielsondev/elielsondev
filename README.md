@@ -67,7 +67,7 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
 </br>
 
 ## 💻 Aprendizagem na programação:
-<p>Nos módulos de Fundamentos e Front-end, aprendi na prática as seguintes tecnologias e metodologias:</p>
+<h4>Nos módulos de Fundamentos e Front-end, aprendi na prática as seguintes tecnologias e metodologias:</h4>
 
 ## 📂 Fundamentos
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/38013921" width="200" height="150"/>
@@ -94,7 +94,7 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
 
 </br>
  
-<p>Também conclui o módulo de Back-end, estou aprendendo e praticando muito:</p>
+<h4>Também conclui o módulo de Back-end, estou aprendendo e praticando muito:</h4>
 
 ## 📂 Back-End
 <ul>
@@ -107,7 +107,7 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
   <li>MongoDB✅</li>
 </ul>
 <!--
-<p>O próximo e último módulo de Ciência da Computação, será ensinado:</p>
+<h4>O próximo e último módulo de Ciência da Computação, será ensinado:</h4>
 
 ## 📂 Ciência de Computação
 <ul>
@@ -124,7 +124,7 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
 
 ## 👍 Siga-me:
 
-  Caso queira falar comigo, favor me contatar pelo meu Linkedin ou por e-mail nos botões abaixo:
+  <h4>Caso queira falar comigo, favor me contatar pelo meu Linkedin ou por e-mail nos botões abaixo:</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/elielsondev/">
