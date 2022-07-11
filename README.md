@@ -94,7 +94,7 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
 
 </br>
  
-<p>Estou quase concluindo o módulo de Back-end, estou aprendendo e praticando muito:</p>
+<p>Também conclui o módulo de Back-end, estou aprendendo e praticando muito:</p>
 
 ## 📂 Back-End
 <ul>
@@ -103,8 +103,8 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
   <li>Node.js✅</li>
   <li>API RESTful✅</li>
   <li>Arquitetura: SOLID e ORM✅</li>
-  <li>Sockets</li>
-  <li>MongoDB</li>
+  <li>Sockets✅</li>
+  <li>MongoDB✅</li>
 </ul>
 <!--
 <p>O próximo e último módulo de Ciência da Computação, será ensinado:</p>
