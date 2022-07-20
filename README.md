@@ -1,37 +1,6 @@
 # 📶 Olá, Sou Elielson, profissional em Desenvolvimento de Software.
 
-<div align="middle">
-  <img width=500 src="https://ml3cn65q37pc.i.optimole.com/04YMEC0-Ts_hXbvy/w:800/h:600/q:70/https://contabilidade.zconti.com.br/wp-content/uploads/2018/07/3-dicas-para-abrir-empresa-de-engenharia.gif" alt="Programador no computador" >
-</div>
-
-## 🖥️ Tecnologias:
-  <!-- https://devicon.dev/ -->
-<div style="display: inline_block"><br>
-  <img align="center" alt="Elielson-Git" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-  <img align="center" alt="Elielson-GitHub" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-  <img align="center" alt="Elielson-HTML5" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" alt="Elielson-CSS3" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img align="center" alt="Elielson-JS" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Elielson-npm" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-  <img align="center" alt="Elielson-Bootstrap" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Elielson-Jest" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img align="center" alt="Elielson-React" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="Elielson-Redux" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img align="center" alt="Elielson-RTL" width="67" src="https://testing-library.com/img/octopus-128x128.png" />
-</div>
-
-  <!-- https://devicon.dev/ -->
-
-<div>
-  <img align="center" alt="Elielson-Docker" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" alt="Elielson-MySQL" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Elielson-MongoDB" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img align="center" alt="Elielson-Node.js" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Elielson-Express" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-  <img align="center" alt="Elielson-TypeScript" width="67" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-</div>
-
- ## 👦 Quem sou eu?
+### 👦 Quem sou eu?
    Conhecido como Eli / Leo, sempre fui apaixonado por tecnólogia, desde pequeno gostava de desmontar
    meus brinquedos para entender todo seu funcionamento e como tudo era feito, e mesmo com o passar dos
    anos esse encanto só aumetou.
@@ -48,13 +17,40 @@
    
    Hoje estou aqui, pronto para ingressar na área que tanto sonhei entrar.
    'O meu primeiro passo foi dado, não recuarei jamais.'
+
+<div align="middle"> 
+  <img width=250 src="https://ml3cn65q37pc.i.optimole.com/04YMEC0-Ts_hXbvy/w:800/h:600/q:70/https://contabilidade.zconti.com.br/wp-content/uploads/2018/07/3-dicas-para-abrir-empresa-de-engenharia.gif" alt="Programador no computador" >
+</div>
+
+### 🖥️ Tecnologias:
+  <!-- https://devicon.dev/ -->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Elielson-Git" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  <img align="center" alt="Elielson-HTML5" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img align="center" alt="Elielson-CSS3" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img align="center" alt="Elielson-JS" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Elielson-Bootstrap" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Elielson-Jest" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img align="center" alt="Elielson-React" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align="center" alt="Elielson-Redux" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="center" alt="Elielson-RTL" width="55" src="https://testing-library.com/img/octopus-128x128.png" />
+  
+  <img align="center" alt="Elielson-Docker" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img align="center" alt="Elielson-MySQL" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Elielson-MongoDB" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="center" alt="Elielson-Node.js" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Elielson-Express" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  <img align="center" alt="Elielson-TypeScript" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+</div>
+
+  <!-- https://devicon.dev/ -->
    
-## 💡 Formação:
-👨‍💻 <strong><i>Estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/)</i></strong><br/> Conclusão Julho/2022
+### 💡 Formação:
+👨‍💻 <strong><i>Estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/)</i></strong><br/> Conclusão prevista para Setembro/2022
+
+👨‍💻 <strong><i>Formado em Gestão de Produção Industrial - GPI, pelo [CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER](https://www.uninter.com/)</i></strong><br/> Conclusão Julho/2022
 
 👨‍💻 <strong><i>Inspetor de Qualidade na ITB - Pelo Pronatec</i></strong><br/> Conclusão Outubro/2017
-
-👨‍💻 <strong><i>Formado em Gestão de Produção Industrial - GPI, pelo [CENTRO UNIVERSITÁRIO INTERNACIONAL UNINTER](https://www.uninter.com/)</i></strong><br/> Conclusão Junho/2022
 
 <!--
 !!!
@@ -69,10 +65,10 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
 
 </br>
 
-## 💻 Aprendizagem na programação:
+### 💻 Aprendizagem na programação:
 <h4>Nos módulos de Fundamentos e Front-end, aprendi na prática as seguintes tecnologias e metodologias:</h4>
 
-## 📂 Fundamentos
+### 📂 Fundamentos
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/38013921" width="200" height="150"/>
 <ul>
   <li>Unix e Bash✅</li>
@@ -84,7 +80,7 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
   <li>Integração com API✅</li>
 </ul>
   
-## 📂 Front-End
+### 📂 Front-End
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/45894556" width="200" height="150"/>
 <ul>
   <li>Testes Unitários - Jest e RTL✅</li>
@@ -99,7 +95,7 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
  
 <h4>Também conclui o módulo de Back-end, estou aprendendo e praticando muito:</h4>
 
-## 📂 Back-End
+### 📂 Back-End
 <ul>
   <li>Docker✅</li>
   <li>My SQL✅</li>
@@ -112,7 +108,7 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
 <!--
 <h4>O próximo e último módulo de Ciência da Computação, será ensinado:</h4>
 
-## 📂 Ciência de Computação
+### 📂 Ciência de Computação
 <ul>
   <li>Python</li>
   <li>Programação orientada a objetos</li>
@@ -125,7 +121,7 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
   </br>
 <div>
 
-## 👍 Siga-me:
+### 👍 Siga-me:
 
   <h4>Caso queira falar comigo, favor me contatar pelo meu Linkedin ou por e-mail nos botões abaixo:</h4>
 
@@ -141,7 +137,7 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
   <a href="mailto:nascimento.elielson@gmail.com?subject=Olá!">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
+<div align="middle">
 <p>Esse é o meu resumo de utilização do Github:</p>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elielsondev&show_icons=true&theme=gotham)
@@ -149,3 +145,4 @@ Assim que terminar de fazer melhorias no portifólio colocar o link aqui!!!!!
 <p>Algumas linguagens e ferramentas que eu utilizo:</p>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elielsondev)](https://github.com/elielsondev/github-readme-stats)
+</div>
