@@ -106,6 +106,4 @@ desenvolvimento, não desistirei jamais, persistência, determinação e foco s�
 <div align="center">
    <p align="center"><b>Contador de Visitas</b></p>  
    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{elielsondev}/count.svg" /></p> 
-<br>
 </div>
-
