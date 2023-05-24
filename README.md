@@ -2,9 +2,9 @@
 
 ## Sobre mim:
 *Um jovem entusiasta que desde pequeno ousou sonhar que fazer a diferença nesse mundo seria possível, de
-família humilde sou motivo de bastante inspiração para os meus amigos e familiares pois sou , estou só começando,
-em busca da minha primeira oportunidade profissional na área de desenvolvimento, não desistirei jamais,
-persistência, determinação e foco são meus sobrenomes.*
+família humilde sou motivo de bastante inspiração para os meus amigos e familiares porque nunca desisti
+dos meus sonhos, estou só começando, e em busca da minha primeira oportunidade profissional na área de
+desenvolvimento, não desistirei jamais, persistência, determinação e foco são meus sobrenomes.*
 
 ## Cursando:
    > **Pós-Graduação em Engenharia de Software Com Métodos Ágeis;**
