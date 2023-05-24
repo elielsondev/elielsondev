@@ -103,3 +103,9 @@ persistência, determinação e foco são meus sobrenomes.*
    </a>
 </div>
 
+<div align="center">
+   <p align="center"><b>Contador de Visitas</b></p>  
+   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{elielsondev}/count.svg" /></p> 
+<br>
+</div>
+
