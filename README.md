@@ -1,14 +1,14 @@
 # Sou Elielson Nascimento,
 
+## Cursando:
+   > **Pós-Graduação em Engenharia de Software Com Métodos Ágeis;**
+
 ## Formado em:
   > **Desenvolvimento Web Full-Stack - Formação Intensiva Trybe (FIT);**
   
   > **Gestão de Produção Industrial - UNINTER;**
   
   > **Técnico Inspetor de Qualidade - ITB / PRONATEC;**
-
-## Cursando:
-   > **Pós-Graduação em Engenharia de Software Com Métodos Ágeis;**
 
 ## Quem sou eu?
 *Um jovem entusiasta que desde pequeno ousou sonhar que fazer a diferença nesse mundo seria possível, de
