@@ -68,7 +68,7 @@ desenvolvimento, não desistirei jamais, persistência, determinação e foco s�
   <img width="38%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elielsondev&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
-## Contatos:
+## Contato:
 <div>
    <a href="https://api.whatsapp.com/send?phone=5581992766543" target="_blank ">
       <img
