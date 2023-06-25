@@ -61,11 +61,8 @@ fascinado por tecnologia, porém só em 2021 tive a oportunidade de "mergulhar d
 
 
 ## Informações de uso:
-<div align="center">  
-  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=elielsondev&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Elielson Nascimento github stats" /> 
-  
-  <img width="38%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elielsondev&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elielsondev&show_icons=true&theme=dracula_include_all_commits=true_layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elielsondev&layout=compact)](https://github.com/elielsondev/github-readme-stats)
 
 ## Contato:
 <div>
