@@ -1,6 +1,5 @@
 # Sou Elielson Nascimento,
-*Um jovem entusiasta que desde quando criança ousei sonhar que fazer a diferença nesse mundo seria possível,
-mesmo sendo de família humilde nunca baixei a cabeça e sempre estive na busca de alcançar os meus objetivos e sonhos.*
+*Um jovem entusiasta que desde de criança acredito que fazer a diferença nesse mundo é possível, mesmo sendo de família humilde nunca baixei a cabeça e sempre estive na busca de alcançar os meus objetivos e sonhos.*
 
 *Sempre fui fascinado por tecnologia, porém somente em 2021 tive a oportunidade de "mergulhar de cabeça" na áre de Desenvolvimento de Software, sempre fui motivo de inspiração para os meus amigos e familiares porque nunca desisti dos meus sonhos, como sempre digo: Desistir não é uma opção.*
 
