@@ -7,7 +7,9 @@
 
 ## Cursando:
    > **Pós-Graduação em Engenharia de Software Com Métodos Ágeis - Instituto Líbano;**
+
    > **Formação OutSystems Fundamentals - DIO;**
+   
    > **Desenvolvimento Java com Cloud AWS - DIO;**
 
 ## Formado em:
