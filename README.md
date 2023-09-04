@@ -6,7 +6,9 @@
 *Estou em transição de carreira e na busca da minha primeira oportunidade profissional na área de Engenharia de Software, não desistirei jamais, pois a  persistência, determinação e foco são meus sobrenomes.*
 
 ## Cursando:
-   > **Pós-Graduação em Engenharia de Software Com Métodos Ágeis;**
+   > **Pós-Graduação em Engenharia de Software Com Métodos Ágeis - Instituto Líbano;**
+   > **Formação OutSystems Fundamentals - DIO;**
+   > **Desenvolvimento Java com Cloud AWS - DIO;**
 
 ## Formado em:
   > **Desenvolvimento Web Full-Stack - Formação Intensiva Trybe (FIT);**
