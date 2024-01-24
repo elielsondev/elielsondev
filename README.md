@@ -1,9 +1,7 @@
 # Sou Elielson Nascimento,
-*Um jovem entusiasta que desde de criança acredita que fazer a diferença nesse mundo é possível, mesmo sendo de família humilde nunca baixei a cabeça e sempre estive na busca de alcançar os meus objetivos e sonhos.*
+Sempre fui apaixonado por tecnologia, mas foi somente em 2021 que tive a chance de me envolver profundamente no campo do Desenvolvimento de Software. Sempre fui uma fonte de inspiração para meus amigos e familiares, pois nunca desisti dos meus sonhos. Como costumo dizer: Desistir não é uma opção.
 
-*Sempre fui fascinado por tecnologia, porém somente em 2021 tive a oportunidade de "mergulhar de cabeça" na áre de Desenvolvimento de Software, sempre fui motivo de inspiração para os meus amigos e familiares porque nunca desisti dos meus sonhos, como sempre digo: Desistir não é uma opção.*
-
-*Estou em transição de carreira e na busca da minha primeira oportunidade profissional na área de Engenharia de Software, não desistirei jamais, pois a  persistência, determinação e foco são meus sobrenomes.*
+Estou em transição de carreira e em busca da minha primeira oportunidade profissional na área de Engenharia de Software. Jamais desistirei, pois a persistência, determinação e foco são meus sobrenomes.
 
 ## Cursando:
    > **Pós-Graduação em Engenharia de Software Com Métodos Ágeis - Instituto Líbano;**
