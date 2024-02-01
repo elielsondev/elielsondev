@@ -1,7 +1,7 @@
 # Sou Elielson Nascimento,
-Sempre fui apaixonado por tecnologia, mas foi somente em 2021 que tive a chance de me envolver profundamente no campo do Desenvolvimento de Software. Sempre fui uma fonte de inspiração para meus amigos e familiares, pois nunca desisti dos meus sonhos. Como costumo dizer: Desistir não é uma opção.
+Sou um profissional em transição de carreira, com foco em front-end, back-end e banco de dados. Tenho um comprometimento e foco inabaláveis em relação aos meus objetivos profissionais, sempre buscando aprimorar minhas habilidades e conhecimentos. Tenho facilidade em trabalhar em equipe, pois acredito que a colaboração é essencial para alcançar os melhores resultados. 
 
-Estou em transição de carreira e em busca da minha primeira oportunidade profissional na área de Engenharia de Software. Jamais desistirei, pois a persistência, determinação e foco são meus sobrenomes.
+Tenho paixão pelo que faço e uma grande empatia pelas pessoas ao meu redor, o que me permite entender as necessidades e desafios dos outros. Além disso, a resiliência é uma das minhas principais qualidades, o que me permite superar obstáculos e continuar avançando, mesmo diante das adversidades. Estou sempre disposto a aprender e a me adaptar às mudanças, buscando sempre novos desafios e oportunidades de crescimento.
 
 ## Cursando:
    > **Pós-Graduação em Engenharia de Software Com Métodos Ágeis - Instituto Líbano;**
