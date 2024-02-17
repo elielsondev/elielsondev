@@ -7,8 +7,6 @@ Tenho paixão pelo que faço e uma grande empatia pelas pessoas ao meu redor, o 
    > **Pós-Graduação em Engenharia de Software Com Métodos Ágeis - Instituto Líbano;**
 
    > **Formação OutSystems Fundamentals - DIO;**
-   
-   > **Desenvolvimento Java com Cloud AWS - DIO;**
 
 ## Formado em:
   > **Desenvolvimento Web Full-Stack - Formação Intensiva Trybe (FIT);**
