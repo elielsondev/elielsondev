@@ -6,8 +6,6 @@ Tenho paixão pelo que faço e uma grande empatia pelas pessoas ao meu redor, o 
 ## Cursando:
    > **Pós-Graduação em Engenharia de Software Com Métodos Ágeis - Instituto Líbano;**
 
-   > **Formação OutSystems Fundamentals - DIO;**
-
 ## Formado em:
   > **Desenvolvimento Web Full-Stack - Formação Intensiva Trybe (FIT);**
   
