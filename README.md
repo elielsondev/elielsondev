@@ -4,6 +4,8 @@ Sou um profissional em transição de carreira, com foco em front-end, back-end 
 Tenho paixão pelo que faço e uma grande empatia pelas pessoas ao meu redor, o que me permite entender as necessidades e desafios dos outros. Além disso, a resiliência é uma das minhas principais qualidades, o que me permite superar obstáculos e continuar avançando, mesmo diante das adversidades. Estou sempre disposto a aprender e a me adaptar às mudanças, buscando sempre novos desafios e oportunidades de crescimento.
 
 ## Cursando:
+   > **Graduação em Analise e Desenvolvimento de Sistemas**
+
    > **Pós-Graduação em Engenharia de Software Com Métodos Ágeis - Instituto Líbano;**
 
 ## Formado em:
