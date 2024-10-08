@@ -10,7 +10,7 @@ Estou sempre aberto a aprender e me adaptar às mudanças, buscando novos desafi
 Vamos nos conectar!
 
 ## Cursando:
-   > **Graduação em Analise e Desenvolvimento de Sistemas**
+   > **Graduação em Analise e Desenvolvimento de Sistemas - Faculdade Descomplica**
 
    > **Pós-Graduação em Engenharia de Software Com Métodos Ágeis - Instituto Líbano;**
 
