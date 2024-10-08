@@ -1,7 +1,13 @@
-# Sou Elielson Nascimento,
-Sou um profissional em transição de carreira, com foco em front-end, back-end e banco de dados. Tenho um comprometimento e foco inabaláveis em relação aos meus objetivos profissionais, sempre buscando aprimorar minhas habilidades e conhecimentos. Tenho facilidade em trabalhar em equipe, pois acredito que a colaboração é essencial para alcançar os melhores resultados. 
+# Olá, sou Elielson Nascimento!
+Sou um profissional em transição de carreira, focado em desenvolvimento front-end, com experiência em HTML, CSS, Bootstrap, JavaScript, TypeScript e React. Também possuo conhecimentos em testes unitários, utilizando a biblioteca Jest para garantir a qualidade do código.
 
-Tenho paixão pelo que faço e uma grande empatia pelas pessoas ao meu redor, o que me permite entender as necessidades e desafios dos outros. Além disso, a resiliência é uma das minhas principais qualidades, o que me permite superar obstáculos e continuar avançando, mesmo diante das adversidades. Estou sempre disposto a aprender e a me adaptar às mudanças, buscando sempre novos desafios e oportunidades de crescimento.
+Estou comprometido com meu crescimento profissional e busco constantemente aprimorar minhas habilidades e conhecimentos. Acredito que a colaboração em equipe é fundamental para alcançar os melhores resultados, e tenho facilidade em trabalhar em conjunto, sempre valorizando a diversidade de ideias e perspectivas.
+
+Minha paixão pelo desenvolvimento se reflete na empatia que tenho pelas pessoas ao meu redor, permitindo-me entender suas necessidades e desafios. A resiliência é uma das minhas principais características, ajudando-me a superar obstáculos e seguir em frente, mesmo diante das adversidades.
+
+Estou sempre aberto a aprender e me adaptar às mudanças, buscando novos desafios e oportunidades de crescimento. Estou animado para contribuir em projetos inovadores e fazer a diferença no mundo da tecnologia!
+
+Vamos nos conectar!
 
 ## Cursando:
    > **Graduação em Analise e Desenvolvimento de Sistemas**
