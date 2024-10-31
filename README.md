@@ -6,16 +6,14 @@ Estou sempre aberto a aprender e me adaptar às mudanças, buscando novos desafi
 Vamos nos conectar!
 
 ## Cursando:
-   > **Graduação em Analise e Desenvolvimento de Sistemas - Faculdade Descomplica**
+   > **Faculdade Descomplica - Graduação em Analise e Desenvolvimento de Sistemas**
 
-   > **Pós-Graduação em Engenharia de Software Com Métodos Ágeis - Instituto Líbano;**
+   > **Instituto Líbano - Pós-Graduação em Engenharia de Software Com Métodos Ágeis**
 
 ## Formado em:
-  > **Desenvolvimento Web Full-Stack - Formação Intensiva Trybe (FIT);**
+  > **Formação Intensiva Trybe (FIT) - Desenvolvimento Web Full-Stack**
   
-  > **Gestão de Produção Industrial - UNINTER;**
-  
-  > **Técnico Inspetor de Qualidade - ITB / PRONATEC;**
+  > **Centro Universitário Internacional Uninter - Gestão de Produção Industrial**
 
 ## Tecnologias:
 
