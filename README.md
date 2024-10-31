@@ -1,9 +1,5 @@
 # Olá, sou Elielson Nascimento!
-Sou um profissional em transição de carreira, focado em desenvolvimento front-end, com experiência em HTML, CSS, Bootstrap, JavaScript, TypeScript e React. Também possuo conhecimentos em testes unitários, utilizando a biblioteca Jest para garantir a qualidade do código.
-
-Estou comprometido com meu crescimento profissional e busco constantemente aprimorar minhas habilidades e conhecimentos. Acredito que a colaboração em equipe é fundamental para alcançar os melhores resultados, e tenho facilidade em trabalhar em conjunto, sempre valorizando a diversidade de ideias e perspectivas.
-
-Minha paixão pelo desenvolvimento se reflete na empatia que tenho pelas pessoas ao meu redor, permitindo-me entender suas necessidades e desafios. A resiliência é uma das minhas principais características, ajudando-me a superar obstáculos e seguir em frente, mesmo diante das adversidades.
+Desenvolvedor front-end apaixonado por criar interfaces intuitivas e experiências de usuário excepcionais. Atualmente, trabalho como freelancer, explorando as diversas possibilidades que o mundo da tecnologia oferece.
 
 Estou sempre aberto a aprender e me adaptar às mudanças, buscando novos desafios e oportunidades de crescimento. Estou animado para contribuir em projetos inovadores e fazer a diferença no mundo da tecnologia!
 
