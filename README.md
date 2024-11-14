@@ -6,11 +6,13 @@ Estou sempre aberto a aprender e me adaptar às mudanças, buscando novos desafi
 Vamos nos conectar!
 
 ## Cursando:
+   > **Trybe - IA para Programação com Python**
+
    > **Faculdade Descomplica - Graduação em Analise e Desenvolvimento de Sistemas**
 
-   > **Instituto Líbano - Pós-Graduação em Engenharia de Software Com Métodos Ágeis**
-
 ## Formado em:
+  > **Instituto Líbano - Pós-Graduação em Engenharia de Software Com Métodos Ágeis**
+
   > **Formação Intensiva Trybe (FIT) - Desenvolvimento Web Full-Stack**
   
   > **Centro Universitário Internacional Uninter - Gestão de Produção Industrial**
