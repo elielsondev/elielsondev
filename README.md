@@ -11,7 +11,7 @@ Vamos nos conectar!
    > **Faculdade Descomplica - Graduação em Analise e Desenvolvimento de Sistemas**
 
 ## Formado em:
-  > **Instituto Líbano - Pós-Graduação em Engenharia de Software Com Métodos Ágeis**
+  > **Centro Universitário Celso Lisboa (Insttuto Líbano) - Pós-graduação Lato-Sensu em Engenharia de Software Com Métodos Ágeis**
 
   > **Formação Intensiva Trybe (FIT) - Desenvolvimento Web Full-Stack**
   
