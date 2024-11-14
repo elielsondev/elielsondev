@@ -3,7 +3,7 @@ Desenvolvedor front-end apaixonado por criar interfaces intuitivas e experiênci
 
 Estou sempre aberto a aprender e me adaptar às mudanças, buscando novos desafios e oportunidades de crescimento. Estou animado para contribuir em projetos inovadores e fazer a diferença no mundo da tecnologia!
 
-Vamos nos conectar!
+Vamos nos conectar?
 
 ## Cursando:
    > **Trybe - IA para Programação com Python**
