@@ -1,14 +1,21 @@
 # Olá, sou Elielson Nascimento!
-Desenvolvedor front-end apaixonado por criar interfaces intuitivas e experiências de usuário excepcionais. Atualmente, trabalho como freelancer, explorando as diversas possibilidades que o mundo da tecnologia oferece.
+Sou um entusiasta da tecnologia e apaixonado por criar interfaces web envolventes e funcionais. Com um foco em design e usabilidade, meu objetivo é proporcionar experiências excepcionais para os usuários. Atualmente, estou em busca de oportunidades que me permitam crescer e desenvolver minhas habilidades como desenvolvedor full-stack.
 
-Estou sempre aberto a aprender e me adaptar às mudanças, buscando novos desafios e oportunidades de crescimento. Estou animado para contribuir em projetos inovadores e fazer a diferença no mundo da tecnologia!
+### O Que Me Motiva
+Acredito que a colaboração entre as diferentes áreas do desenvolvimento é essencial para o sucesso de um projeto. Estou sempre disposto a aprender e enfrentar novos desafios, buscando soluções criativas que tenham um impacto positivo no mundo digital.
 
-Vamos nos conectar?
+Se você está procurando alguém com energia, vontade de aprender e que esteja pronto para contribuir com sua equipe, entre em contato! Vamos criar algo incrível juntos!
+
+
 
 ## Cursando:
-   > **Trybe - IA para Programação com Python**
-
    > **Faculdade Descomplica - Graduação em Analise e Desenvolvimento de Sistemas**
+
+   > **Trybe - IA para Programação com Python**
+  
+   > **Trybe - Java**
+
+   > **What if Club - Inglês** 
 
 ## Formado em:
   > **Centro Universitário Celso Lisboa (Instituto Líbano) - Pós-graduação Lato-Sensu em Engenharia de Software Com Métodos Ágeis**
