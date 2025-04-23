@@ -1,8 +1,17 @@
-# Olá, sou Elielson Nascimento!
-Sou um entusiasta da tecnologia e apaixonado por criar interfaces web envolventes e funcionais. Com um foco em design e usabilidade, meu objetivo é proporcionar experiências excepcionais para os usuários. Atualmente, estou em busca de oportunidades que me permitam crescer e desenvolver minhas habilidades como desenvolvedor full-stack.
+## 👋 Olá! Eu sou Elielson Ramos
 
-### O Que Me Motiva
-Acredito que a colaboração entre as diferentes áreas do desenvolvimento é essencial para o sucesso de um projeto. Estou sempre disposto a aprender e enfrentar novos desafios, buscando soluções criativas que tenham um impacto positivo no mundo digital.
+🎯 Desenvolvedor Full Stack | Apaixonado por tecnologia, IA Generativa e soluções inteligentes para a web.
+
+Atuo com desenvolvimento de software, combinando uma base sólida em **JavaScript, React, Node.js, Python e AWS** com práticas modernas de engenharia como **Metodologias Ágeis, TDD, DevOps e CI/CD**.
+
+🧠 Em constante aprendizado, atualmente curso Análise e Desenvolvimento de Sistemas e já conclui uma **pós-graduação em Engenharia de Software com Métodos Ágeis**. Participei de bootcamps intensivos na Trybe e AWS focados em **desenvolvimento web e inteligência artificial generativa**.
+
+🚀 Gosto de criar soluções do zero, colaborar em equipe e entregar valor através de código limpo, escalável e bem testado. Mantenho meu portfólio ativo com projetos que demonstram minha evolução e domínio técnico.
+
+📫 **Vamos conversar?**  
+[LinkedIn](https://www.linkedin.com/in/elielsondev) | [Portfólio](https://elielsondev.vercel.app) | [Email](mailto:nascimento.elielson@gmail.com)
+
+---
 
 Se você está procurando alguém com energia, vontade de aprender e que esteja pronto para contribuir com sua equipe, entre em contato! Vamos criar algo incrível juntos!
 
