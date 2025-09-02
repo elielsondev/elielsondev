@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou Elielson Ramos
+## 👋 Olá! Eu sou Elielson
 
 🎯 Desenvolvedor Full Stack | Apaixonado por tecnologia, IA Generativa e soluções inteligentes para a web.
 
@@ -18,6 +18,8 @@ Se você está procurando alguém com energia, vontade de aprender e que esteja 
 
 
 ## Cursando:
+   > **BFD - Bolsa Futuro Digital SOftex-PE - Front-End React**
+
    > **Faculdade Descomplica - Graduação em Analise e Desenvolvimento de Sistemas**
 
    > **Trybe - IA para Programação com Python**
