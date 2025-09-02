@@ -18,7 +18,7 @@ Se você está procurando alguém com energia, vontade de aprender e que esteja 
 
 
 ## Cursando:
-   > **BFD - Bolsa Futuro Digital SOftex-PE - Front-End React**
+   > **BFD - Bolsa Futuro Digital Softex-PE - Front-End React**
 
    > **Faculdade Descomplica - Graduação em Analise e Desenvolvimento de Sistemas**
 
