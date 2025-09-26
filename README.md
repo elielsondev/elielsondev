@@ -23,8 +23,6 @@ Se você está procurando alguém com energia, vontade de aprender e que esteja 
    > **Faculdade Descomplica - Graduação em Analise e Desenvolvimento de Sistemas**
 
    > **Trybe - IA para Programação com Python**
-  
-   > **Trybe - Java**
 
    > **What if Club - Inglês** 
 
